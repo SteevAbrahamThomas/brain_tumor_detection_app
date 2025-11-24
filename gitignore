@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# TensorFlow logs
+logs/
+checkpoint/
+*.ckpt
+*.h5
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Python egg files
+*.egg
+*.egg-info/
+
+# Model artifacts
+*.keras
+*.pb
